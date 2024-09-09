@@ -1,5 +1,5 @@
 fun main(args: Array<String>) {
-    val  arrayList = arrayListOf(1,2,3)
+    val  arrayList = arrayListOf(1, 2, 3)
     print("ArrayList array : ")
     for (item in arrayList){
         print("$item")
